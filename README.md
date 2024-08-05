@@ -27,6 +27,20 @@
 
 In today’s competitive job market, having a user-friendly platform to connect job seekers with employers is crucial. **CareerConnect-Pro** addresses this need by providing a seamless experience for both job seekers and employers. It simplifies the job application process, enhances job discovery, and streamlines recruitment, ultimately contributing to a more efficient job market.
 
+## Installation
+
+Follow these steps to clone and set up the project locally.
+
+### Clone the Repository
+
+1. Open your terminal or command prompt.
+2. Navigate to the directory where you want to clone the repository.
+3. Run the following command:
+
+```bash
+git clone https://github.com/teja-86/CareerConnect-Pro.git
+
+cd CareerConnect-Pro and Start working on it.........
 ## Future Enhancements
 
 - **Advanced Search Filters**: Implement more granular search options to help users find job listings that best match their criteria.
