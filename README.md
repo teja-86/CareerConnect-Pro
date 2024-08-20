@@ -4,6 +4,14 @@
 
 **CareerConnect-Pro** is a modern job portal application designed to connect job seekers with potential employers. Leveraging the power of the MERN stack (MongoDB, Express.js, React.js, and Node.js) and styled with Tailwind CSS, this application offers a responsive and intuitive interface for users to search, apply for jobs, and manage their profiles. It provides a comprehensive platform for job searching, and employer job postings.
 
+## Table of Contents
+
+- [Technologies Used](#technologies-used)
+- [Key Features](#key-features)
+- [Why This Project Matters](#why-this-project-matters)
+- [Installation](#installation)
+- [Contributing](#contributing)
+  
 ## Technologies Used
 
 - **MongoDB**: NoSQL database for storing user profiles, job listings, and application data.
@@ -48,3 +56,14 @@ cd CareerConnect-Pro and Start working on it.........
 - **Company Profiles**: Allow companies to create detailed profiles showcasing their culture, values, and job benefits.
 - **Interview Scheduling**: Integrate a scheduling system for interview appointments between candidates and employers.
 - **Enhanced Security**: Implement additional security measures, such as 2FA (Two-Factor Authentication) and encryption for sensitive data.
+```
+
+## Contributing
+
+Contributions are welcome! Please follow these steps to contribute:
+
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature/YourFeature`.
+3. Make your changes and commit them: `git commit -m 'Add Your Feature'`.
+4. Push to the branch: `git push origin feature/YourFeature`.
+5. Open a Pull Request.
